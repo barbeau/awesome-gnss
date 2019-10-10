@@ -1,6 +1,6 @@
 # awesome-gnss [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/barbeau/awesome-gnss/commits/master.atom)
 
-##### Community list of GNSS software and resources :satellite:
+##### Community list of open-source GNSS software and resources :satellite:
 
 Have something to add or change? Open a [pull request](https://github.com/barbeau/awesome-gnss/pulls) or [issue](https://github.com/barbeau/awesome-gnss/issues).
 
