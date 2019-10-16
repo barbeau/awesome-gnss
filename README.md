@@ -32,3 +32,12 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - [*Using GNSS Raw Measurements on Android Devices*](https://www.gsa.europa.eu/system/files/reports/gnss_raw_measurement_web_0.pdf) by GSA GNSS Raw Measurements Task Force - Technical discussion of how to determine a device's position based on raw pseudorange measurements provided via Android APIs.
 - [*Android - Raw GNSS Measurements*](https://developer.android.com/guide/topics/sensors/gnss) by Google - Lists Android devices that support raw GNSS measurements as well as documentation for [GNSSLogger](https://github.com/google/gps-measurement-tools#gnsslogger) and Google's [GPS Measurement Tools](https://github.com/google/gps-measurement-tools) suite.
 - [*GNSS Analysis Tools from Google*](https://insidegnss.com/gnss-analysis-tools-from-google/) by Inside GNSS - Discussion of Google's [GPS Measurement Tools](https://github.com/google/gps-measurement-tools) suite.
+
+### Proprietary tools
+
+- [Jason Positioning-as-a-Service](https://jason.rokubun.cat) An online service
+that allows you to upload your GNSS data in various formats (Rinex, ublox files,
+GNSS logger files, ...) and process it using Post-processing Kinematic (PPK) strategy. The service
+will automatically pick a nearby reference receiver.
+
+
