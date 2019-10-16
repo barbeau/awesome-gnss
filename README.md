@@ -23,6 +23,16 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - **EGNOS Toolkit** ([Download](https://sourceforge.net/projects/libegnos/files/), [Source code](https://sourceforge.net/projects/libegnos/))-  A set of tools to work with Satellite-Based Augmentation Systems (SBAS), specially EGNOS. Support Linux.
 - **GNSS-SDR** ([Download](https://gnss-sdr.org/), [Source code](https://github.com/gnss-sdr/gnss-sdr)) - An open source GNSS software defined receiver. Supports Linux, Mac, and Windows.
 - **RTKLIB** ([Download](http://www.rtklib.com/), [Source code](https://github.com/tomojitakasu/RTKLIB)) - An Open Source Program Package for GNSS Positioning. Has a companion Android app [RTKGPS+](https://play.google.com/store/apps/details?id=gpsplus.rtkgps). Supports Windows.
+- **gAGE Lab** [Download](https://gage.upc.es/gLAB/) A free and publicly available
+software for GNSS data processing.
+
+### Proprietary tools
+
+- [Jason Positioning-as-a-Service](https://jason.rokubun.cat) An online service
+that allows you to upload your GNSS data in various formats (Rinex, ublox files,
+GNSS logger files, ...) and process it using Post-processing Kinematic (PPK) strategy. The service
+will automatically pick a nearby reference receiver.
+
 
 ### Articles
 
@@ -33,11 +43,10 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - [*Android - Raw GNSS Measurements*](https://developer.android.com/guide/topics/sensors/gnss) by Google - Lists Android devices that support raw GNSS measurements as well as documentation for [GNSSLogger](https://github.com/google/gps-measurement-tools#gnsslogger) and Google's [GPS Measurement Tools](https://github.com/google/gps-measurement-tools) suite.
 - [*GNSS Analysis Tools from Google*](https://insidegnss.com/gnss-analysis-tools-from-google/) by Inside GNSS - Discussion of Google's [GPS Measurement Tools](https://github.com/google/gps-measurement-tools) suite.
 
-### Proprietary tools
+### Links
 
-- [Jason Positioning-as-a-Service](https://jason.rokubun.cat) An online service
-that allows you to upload your GNSS data in various formats (Rinex, ublox files,
-GNSS logger files, ...) and process it using Post-processing Kinematic (PPK) strategy. The service
-will automatically pick a nearby reference receiver.
-
-
+- [Navipedia](https://gssc.esa.int/navipedia/index.php/Main_Page) by ESA - A
+wiki-like page discussing fundamental aspects of GNSS systems and data processing.
+- [GNSS Data processing book](https://gage.upc.es/forum/gnss-books/) by UPC/gAGE -
+is a reference book with theory and exercises to learn GNSS data processing
+(range modelling, navigation equations, Kalman filter, ...)
