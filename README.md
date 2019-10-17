@@ -31,7 +31,9 @@ software for GNSS data processing.
 - [Jason Positioning-as-a-Service](https://jason.rokubun.cat) An online service
 that allows you to upload your GNSS data in various formats (Rinex, ublox files,
 GNSS logger files, ...) and process it using Post-processing Kinematic (PPK) strategy. The service
-will automatically pick a nearby reference receiver.
+will automatically pick a nearby reference receiver. As of today, the service
+is in beta version and free of use. In the future it will be a 
+paid service with a free tier for evaluation and low volume usage.
 
 
 ### Articles
