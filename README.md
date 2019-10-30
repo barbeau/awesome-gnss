@@ -32,6 +32,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 ### Wikis
 
 - [Navipedia](https://gssc.esa.int/navipedia/index.php/Main_Page) by ESA - An online reference for GNSS systems and data processing.
+
 ### Articles
 
 - [*Dual-frequency GNSS on Android devices*](https://medium.com/@sjbarbeau/dual-frequency-gnss-on-android-devices-152b8826e1c) by Sean Barbeau - Discussion of dual-frequency GNSS support on Android, including screenshots showing device support for dual-frequency in GPSTest.
@@ -44,3 +45,14 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 ### Books
 
 - [GNSS Data Processing books](https://gage.upc.es/forum/gnss-books/) by UPC/gAGE - Theory and exercises to learn GNSS data processing (e.g., range modelling, navigation equations, Kalman filter)
+
+### Lists
+
+- [Upcoming satellite launches](https://www.gpsworld.com/resources/upcoming-gnss-satellite-launches/) by GPS World
+- Galileo
+  - [Supported devices (official)](https://www.usegalileo.eu/EN/inner.html#data=smartphone)
+  - [Real-time status (official)](https://www.gsc-europa.eu/system-service-status/constellation-information)
+- QZSS
+  - [Supported devices (official)](https://qzss.go.jp/en/usage/products/list.html#smartphones-tablet-computers)
+- WAAS
+  - [Real-time status (official)](https://www.nstb.tc.faa.gov/RT_WaasSatelliteStatus.htm)
