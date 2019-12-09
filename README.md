@@ -31,9 +31,6 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 ### Web tools (proprietary)
 
 - [Jason Positioning-as-a-Service](https://jason.rokubun.cat) - Upload GNSS data (e.g., RINEX, u-blox files, GNSS logger files) and process it using Post-processing Kinematic (PPK) strategy. Automatically picks a nearby reference receiver. Currently free in beta, but will become a paid service with a free tier for evaluation and low-volume usage.
-
-### Web tools (non-proprietary)
-
 - [GNSS-Radar](http://www.taroz.net/GNSS-Radar.html) - GNSS coverage simulator over time for any given location.
 
 ### Social media
