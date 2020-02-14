@@ -1,4 +1,4 @@
-# awesome-gnss [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/barbeau/awesome-gnss/commits/master.atom)
+# awesome-gnss [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/barbeau/awesome-gnss/commits/master.atom)
 
 ##### Community list of open-source Global Navigation Satellite System (GNSS) software and resources :satellite:
 
