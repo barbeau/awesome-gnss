@@ -4,6 +4,20 @@
 
 Have something to add or change? Open a [pull request](https://github.com/barbeau/awesome-gnss/pulls) or [issue](https://github.com/barbeau/awesome-gnss/issues).
 
+## Contents
+
+- [Android apps (open-source)](#android-apps-open-source)
+- [iOS apps (open-source)](#ios-apps-open-source)
+- [Desktop tools](#desktop-tools)
+- [Web tools (proprietary)](#web-tools-proprietary)
+- [Social media](#social-media)
+- [Blogs](#blogs)
+- [Wikis](#wikis)
+- [Videos](#videos)
+- [Articles](#articles)
+- [Books](#books)
+- [Lists](#lists)
+
 ### Android apps (open-source)
 
 - **GPSTest** ([Google Play](https://play.google.com/store/apps/details?id=com.android.gpstest), [F-Droid](https://f-droid.org/packages/com.android.gpstest.osmdroid/), [Source code](https://github.com/barbeau/gpstest)) - Supports dual-frequency GNSS for GPS, GLONASS, QZSS, BeiDou/COMPASS, Galileo, IRNSS, as well as various SBAS systems. Supports measuring accuracy using a ground truth location and file logging for NMEA, raw measurements, navigation messages, and location data. Logs are compatible with Google's [GPS Measurement Tools](https://github.com/google/gps-measurement-tools) suite to [visualize data](https://developer.android.com/guide/topics/sensors/gnss#analyze).
