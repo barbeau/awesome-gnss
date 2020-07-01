@@ -94,3 +94,5 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
   - [Supported devices (official)](https://qzss.go.jp/en/usage/products/list.html#smartphones-tablet-computers)
 - WAAS
   - [Real-time status (official)](https://www.nstb.tc.faa.gov/RT_WaasSatelliteStatus.htm)
+- Positioning Australia
+  - [Global Navigation Satellite System Data Centre (official)](https://gnss.ga.gov.au/)
