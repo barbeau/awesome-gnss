@@ -41,7 +41,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - **GPSTk** ([Download](http://www.gpstk.org), [Source code](https://github.com/SGL-UT/GPSTk)) - C++ open source library and a suite of applications for GPS processing problems.
 - **gLAB Lab** ([Download](https://gage.upc.es/gLAB/)) - Performs precise modeling of GNSS observables (pseudorange and carrier phase) at the centimetre level, allowing both standalone GPS positioning and PPP. Supports RINEX-3.00, SP3, ANTEX and SINEX, as well as GPS, Galileo, and GLONASS. Developed under an European Space Agency (ESA) contract by the Universitat Politecnica de Catalunya (UPC). Free to download but not open-source.
 - **teqc** ([Download](https://www.unavco.org/software/data-processing/teqc/teqc.html)) - Translation, editing, and quality check of GNSS data in native and in RINEX/BINEX formats. Free to download but not open-source.
-- **BNC** ([Download](https://igs.bkg.bund.de/ntrip/bnc)) - The BKG Ntrip Client (BNC) is an open-source multi-stream client designed for a variety of real-time GNSS applications. It was primarily designed for receiving data streams from any Ntrip supporting Broadcaster. It can compute a real-time Precise Point Positioning (PPP) solution from RTCM streams or RINEX files.
+- **BKG Ntrip Client (BNC)** ([Download](https://igs.bkg.bund.de/ntrip/bnc)) - BNC is an open-source multi-stream client designed for a variety of real-time GNSS applications. It was primarily designed for receiving data streams from any Ntrip supporting Broadcaster. It can compute a real-time Precise Point Positioning (PPP) solution from RTCM streams or RINEX files.
 
 ### Web tools (proprietary)
 
