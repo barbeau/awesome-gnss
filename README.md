@@ -10,6 +10,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - [iOS apps (open-source)](#ios-apps-open-source)
 - [Desktop tools](#desktop-tools)
 - [Web tools (proprietary)](#web-tools-proprietary)
+- [Data](#data)
 - [Social media](#social-media)
 - [Blogs](#blogs)
 - [Wikis](#wikis)
@@ -47,6 +48,10 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 
 - [Jason Positioning-as-a-Service](https://jason.rokubun.cat) - Upload GNSS data (e.g., RINEX, u-blox files, GNSS logger files) and process it using Post-processing Kinematic (PPK) strategy. Automatically picks a nearby reference receiver. Currently free in beta, but will become a paid service with a free tier for evaluation and low-volume usage.
 - [GNSS-Radar](http://www.taroz.net/GNSS-Radar.html) - GNSS coverage simulator over time for any given location.
+
+### Data
+- [Android smartphones high accuracy GNSS datasets](https://www.kaggle.com/google/android-smartphones-high-accuracy-datasets) by Google - Datasets collected from multiple Android phones, accompanied with high accuracy ground truth. This dataset has 39 traces collected from Pixel 4, Pixel 4 XL, and Xiaomi Mi8. They contain CN0, carrier phase, Doppler rate, satellite transmit time, signal arrival time, and other raw GNSS measurements of L1, L5 channels from GPS, Galileo, GLONASS, Beidou, and QZSS. Precise location ground truth files collected using NovAtel SPAN system are provided. Part of the [Google Smartphone Decimeter Challenge at ION GNSS+ 2021](https://developer.android.com/guide/topics/sensors/google_open_dataset_challenge.pdf).
+- [GPSTest Device Database](https://bit.ly/gpstest-device-database) - A list of device capabilities (e.g., supported GNSS constellations and carrier frequencies) crowd-sourced from users of the [GPSTest Android app](https://github.com/barbeau/gpstest).
 
 ### Social media
 
