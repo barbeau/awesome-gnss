@@ -44,6 +44,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - **teqc** ([Download](https://www.unavco.org/software/data-processing/teqc/teqc.html)) - Translation, editing, and quality check of GNSS data in native and in RINEX/BINEX formats. Free to download but not open-source.
 - **BKG Ntrip Client (BNC)** ([Download](https://igs.bkg.bund.de/ntrip/bnc)) - BNC is an open-source multi-stream client designed for a variety of real-time GNSS applications. It was primarily designed for receiving data streams from any Ntrip supporting Broadcaster. It can compute a real-time Precise Point Positioning (PPP) solution from RTCM streams or RINEX files.
 - **Android GNSS Logger to RINEX converter** ([Source code](https://github.com/rokubun/android_rinex)) - A Python script that converts raw measurements in the CSV format supported by [GnssLogger](https://github.com/google/gps-measurement-tools#gnsslogger) and [GPSTest](https://github.com/barbeau/gpstest) to the RINEX format.
+- **Ginan** ([Source code](https://github.com/GeoscienceAustralia/ginan)) - A processing package being developed by [Geoscience Australia](http://www.ga.gov.au/) to provide real-time corrections to positioning data from the Global Navigation Satellite System (GNSS) constellations.
 
 ### Web tools (proprietary)
 
