@@ -62,7 +62,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 ### Social media
 
 - [IGS](https://twitter.com/IGSorg) - International GNSS Service.
-- [GSA](https://twitter.com/EU_GNSS) - European GNSS Agency.
+- [EUSPA](https://twitter.com/EU4Space) - EU Agency for the Space Programme.
 - [GNSS Status](https://twitter.com/GNSS_Status) - GNSS satellites updated status.
 
 ### Blogs
