@@ -10,6 +10,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - [iOS apps (open-source)](#ios-apps-open-source)
 - [Desktop tools](#desktop-tools)
 - [Web tools (proprietary)](#web-tools-proprietary)
+- [Libraries and interfaces](#libraries-and-interfaces)
 - [Data](#data)
 - [Social media](#social-media)
 - [Blogs](#blogs)
@@ -46,7 +47,6 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - **BKG Ntrip Client (BNC)** ([Download](https://igs.bkg.bund.de/ntrip/bnc)) - BNC is an open-source multi-stream client designed for a variety of real-time GNSS applications. It was primarily designed for receiving data streams from any Ntrip supporting Broadcaster. It can compute a real-time Precise Point Positioning (PPP) solution from RTCM streams or RINEX files.
 - **Android GNSS Logger to RINEX converter** ([Source code](https://github.com/rokubun/android_rinex)) - A Python script that converts raw measurements in the CSV format supported by [GnssLogger](https://github.com/google/gps-measurement-tools#gnsslogger) and [GPSTest](https://github.com/barbeau/gpstest) to the RINEX format.
 - **Ginan** ([Source code](https://github.com/GeoscienceAustralia/ginan)) - A processing package being developed by [Geoscience Australia](http://www.ga.gov.au/) to provide real-time corrections to positioning data from the Global Navigation Satellite System (GNSS) constellations.
-- **giulioscattolin/google-gnss-logger** ([GitHub](https://github.com/giulioscattolin/google-gnss-logger)) - A Java library that facilitates reading, writing and processing of sensor events and raw GNSS measurements encoded according to the Google's [GNSS Logger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) application format.
 - [goGPS project](https://gogps-project.github.io/) - An open-source software package designed to improve the positioning accuracy of low-cost GPS devices by relative positioning. There are several versions, including [goGPS_Java](https://github.com/goGPS-Project/goGPS_Java) and [goGPS_MATLAB](https://github.com/goGPS-Project/goGPS_MATLAB).
 - [FGI-GSRx](https://www.maanmittauslaitos.fi/en/fgi-gsrx-os) ([Source code](https://github.com/nlsfi/FGI-GSRx)) - An open-source software receiver in MATLAB used to develop, test and validate novel receiver processing algorithms for robust, resilient and precise Position, Navigation and Timing (PNT). Developed by the Finnish Geospatial Research Institute (FGI).
 
@@ -54,6 +54,11 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 
 - [Jason Positioning-as-a-Service](https://jason.rokubun.cat) - Upload GNSS data (e.g., RINEX, u-blox files, GNSS logger files) and process it using Post-processing Kinematic (PPK) strategy. Automatically picks a nearby reference receiver. Currently free in beta, but will become a paid service with a free tier for evaluation and low-volume usage.
 - [GNSS-Radar](http://www.taroz.net/GNSS-Radar.html) - GNSS coverage simulator over time for any given location.
+
+### Libraries and interfaces
+
+- **giulioscattolin/google-gnss-logger** ([GitHub](https://github.com/giulioscattolin/google-gnss-logger)) - A Java library that facilitates reading, writing and processing of sensor events and raw GNSS measurements encoded according to the Google's [GNSS Logger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) application format.
+- [ntripstreams](https://github.com/stenseng/ntripstreams) - Python interface to transfer GNSS and related data between GNSS instruments, Ntrip caster and users using the [Ntrip protocol](https://gssc.esa.int/wp-content/uploads/2018/07/NtripDocumentation.pdf).
 
 ### Data
 - [Android smartphones high accuracy GNSS datasets](https://www.kaggle.com/google/android-smartphones-high-accuracy-datasets) by Google - Datasets collected from multiple Android phones, accompanied with high accuracy ground truth. This dataset has 39 traces collected from Pixel 4, Pixel 4 XL, and Xiaomi Mi8. They contain CN0, carrier phase, Doppler rate, satellite transmit time, signal arrival time, and other raw GNSS measurements of L1, L5 channels from GPS, Galileo, GLONASS, Beidou, and QZSS. Precise location ground truth files collected using NovAtel SPAN system are provided. Part of the [Google Smartphone Decimeter Challenge at ION GNSS+ 2021](https://developer.android.com/guide/topics/sensors/google_open_dataset_challenge.pdf).
