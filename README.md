@@ -8,7 +8,8 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 
 - [Android apps (open-source)](#android-apps-open-source)
 - [iOS apps (open-source)](#ios-apps-open-source)
-- [Desktop tools](#desktop-tools)
+- [Desktop tools (open-source)](#desktop-tools-open-source)
+- [Desktop tools (proprietary)](#desktop-tools-proprietary)
 - [Web tools (proprietary)](#web-tools-proprietary)
 - [Libraries and interfaces](#libraries-and-interfaces)
 - [Data](#data)
@@ -33,7 +34,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - **Overland-iOS** ([App Store](https://apps.apple.com/us/app/overland-gps-tracker/id1292426766), [Source code](https://github.com/aaronpk/Overland-iOS)) - An experiment at gathering data from an iPhone to test the Core Location API and its various settings.
 - **Open GPX Tracker** ([App Store](https://apps.apple.com/app/open-gpx-tracker/id984503772), [Source code](https://github.com/merlos/iOS-Open-GPX-Tracker)) -  Open source GPX tracker app written in Swift. 
 
-### Desktop tools
+### Desktop tools (open-source)
 
 - **Google's GPS Measurement Tools suite** ([Download](https://github.com/google/gps-measurement-tools/releases), [Source code](https://insidegnss.com/gnss-analysis-tools-from-google/)) - Desktop companion app for GNSSLogger to visualize and analyze raw measurements. Supports Windows, Mac, and Linux.
 - **EGNOS Toolkit** ([Download](https://sourceforge.net/projects/libegnos/files/), [Source code](https://sourceforge.net/projects/libegnos/))-  A set of tools to work with Satellite-Based Augmentation Systems (SBAS), specially EGNOS. Support Linux.
@@ -41,14 +42,17 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - **RTKLIB** ([Download](http://www.rtklib.com/), [Source code](https://github.com/tomojitakasu/RTKLIB)) - An Open Source Program Package for GNSS Positioning. Has a companion Android app [RTKGPS+](https://play.google.com/store/apps/details?id=gpsplus.rtkgps). Supports Windows.
 - **RNXCMP** ([Download](https://terras.gsi.go.jp/ja/crx2rnx.html)) - Open source software for Hatanaka compression/restoration of RINEX observation files.
 - **GPSTk** ([Download](http://www.gpstk.org), [Source code](https://github.com/SGL-UT/GPSTk)) - C++ open source library and a suite of applications for GPS processing problems.
-- **gLAB Lab** ([Download](https://gage.upc.es/gLAB/)) - Performs precise modeling of GNSS observables (pseudorange and carrier phase) at the centimetre level, allowing both standalone GPS positioning and PPP. Supports RINEX-3.00, SP3, ANTEX and SINEX, as well as GPS, Galileo, and GLONASS. Developed under an European Space Agency (ESA) contract by the Universitat Politecnica de Catalunya (UPC). Free to download but not open-source.
-- **teqc** ([Download](https://www.unavco.org/software/data-processing/teqc/teqc.html)) - Translation, editing, and quality check of GNSS data in native and in RINEX/BINEX formats. Free to download but not open-source. End-of-life as of February 25, 2019.
 - **Anubis** ([Download](https://gnutsoftware.com/software/anubis)) - Quality checks for GNSS data in RINEX2/3 format. Basic version is free and open-source, Pro and Real-time features available at a cost.
 - **BKG Ntrip Client (BNC)** ([Download](https://igs.bkg.bund.de/ntrip/bnc)) - BNC is an open-source multi-stream client designed for a variety of real-time GNSS applications. It was primarily designed for receiving data streams from any Ntrip supporting Broadcaster. It can compute a real-time Precise Point Positioning (PPP) solution from RTCM streams or RINEX files. See related open-source tools for Ntrip on [this page](http://software.rtcm-ntrip.org/).
 - **Android GNSS Logger to RINEX converter** ([Source code](https://github.com/rokubun/android_rinex)) - A Python script that converts raw measurements in the CSV format supported by [GnssLogger](https://github.com/google/gps-measurement-tools#gnsslogger) and [GPSTest](https://github.com/barbeau/gpstest) to the RINEX format.
 - **Ginan** ([Source code](https://github.com/GeoscienceAustralia/ginan)) - A processing package being developed by [Geoscience Australia](http://www.ga.gov.au/) to provide real-time corrections to positioning data from the Global Navigation Satellite System (GNSS) constellations.
 - [goGPS project](https://gogps-project.github.io/) - An open-source software package designed to improve the positioning accuracy of low-cost GPS devices by relative positioning. There are several versions, including [goGPS_Java](https://github.com/goGPS-Project/goGPS_Java) and [goGPS_MATLAB](https://github.com/goGPS-Project/goGPS_MATLAB).
 - [FGI-GSRx](https://www.maanmittauslaitos.fi/en/fgi-gsrx-os) ([Source code](https://github.com/nlsfi/FGI-GSRx)) - An open-source software receiver in MATLAB used to develop, test and validate novel receiver processing algorithms for robust, resilient and precise Position, Navigation and Timing (PNT). Developed by the Finnish Geospatial Research Institute (FGI).
+
+### Desktop tools (proprietary)
+
+- **gLAB Lab** ([Download](https://gage.upc.es/gLAB/)) - Performs precise modeling of GNSS observables (pseudorange and carrier phase) at the centimetre level, allowing both standalone GPS positioning and PPP. Supports RINEX-3.00, SP3, ANTEX and SINEX, as well as GPS, Galileo, and GLONASS. Developed under an European Space Agency (ESA) contract by the Universitat Politecnica de Catalunya (UPC). Free to download.
+- **teqc** ([Download](https://www.unavco.org/software/data-processing/teqc/teqc.html)) - Translation, editing, and quality check of GNSS data in native and in RINEX/BINEX formats. Free to download. End-of-life as of February 25, 2019.
 
 ### Web tools (proprietary)
 
