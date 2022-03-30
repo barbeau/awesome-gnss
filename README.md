@@ -103,6 +103,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 
 ### Academic peer-reviewed publications
 - Wanninger and Anja Heßelbarth1. ["GNSS code and carrier phase observations of a Huawei P30 smartphone: quality assessment and centimeter-accurate positioning"](https://link.springer.com/content/pdf/10.1007/s10291-020-00978-z.pdf), GPS Solutions, 24:64, March 2020.
+- Ng, H-F, Zhang, G, Luo, Y, Hsu, L-T. ["Urban positioning: 3D mapping-aided GNSS using dual-frequency pseudorange measurements from smartphones."](https://www.ion.org/publications/abstract.cfm?articleID=102931) NAVIGATION. 2021; 68: 727– 749. https://doi.org/10.1002/navi.448
 
 ### Books
 
