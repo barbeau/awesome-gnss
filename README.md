@@ -18,6 +18,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - [Wikis](#wikis)
 - [Videos](#videos)
 - [Articles](#articles)
+- [Academic peer-reviewed publications](#academic-peer-reviewed-publications)
 - [Books](#books)
 - [Lists](#lists)
 
