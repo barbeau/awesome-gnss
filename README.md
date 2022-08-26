@@ -61,6 +61,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 
 - [GNSS-Radar](http://www.taroz.net/GNSS-Radar.html) - GNSS coverage simulator over time for any given location.
 - [Jason Positioning-as-a-Service](https://jason.rokubun.cat) - Upload GNSS data (e.g., RINEX, u-blox files, GNSS logger files) and process it using Post-processing Kinematic (PPK) strategy. Automatically picks a nearby reference receiver. Currently free in beta, but will become a paid service with a free tier for evaluation and low-volume usage.
+- [HowToCreate GPS/GNSS log file parser](http://www.howtocreate.co.uk/tutorials/jsexamples/gnsslogparser.html) - Upload gnss_log output from GPSTest or Google's GnssLogger, or a CSV file containing the same columns. The tool processes the data, and applies a static Kalman filter to refine the position of the GNSS device, much better than basic averaging, since it can use the estimated accuracy for weighting.
 
 ### Libraries and interfaces
 
