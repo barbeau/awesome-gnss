@@ -68,6 +68,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - [earth-gravitational-model](https://github.com/barbeau/earth-gravitational-model) - A lightweight port of the GeoTools [EarthGravitationalModel](http://docs.geotools.org/latest/javadocs/org/geotools/referencing/operation/transform/EarthGravitationalModel.html) as a Java library to convert WGS84 (GNSS) altitude to EGM84 (height above mean sea level). Can be used on Android without requiring the entire GeoTools suite.
 - [giulioscattolin/google-gnss-logger](https://github.com/giulioscattolin/google-gnss-logger) - A Java library that facilitates reading, writing and processing of sensor events and raw GNSS measurements encoded according to the Google's [GNSS Logger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) application format.
 - [ntripstreams](https://github.com/stenseng/ntripstreams) - Python interface to transfer GNSS and related data between GNSS instruments, Ntrip caster and users using the [Ntrip protocol](https://gssc.esa.int/wp-content/uploads/2018/07/NtripDocumentation.pdf).
+- [gps_pvt](https://github.com/fenrir-naru/gps_pvt) - An Open Source Program Package for GNSS Positioning which is runnable and controllable via [Ruby](https://www.ruby-lang.org/). RINEX ver.2/3, SP3, ANTEX, and u-blox UBX parsers are included.
 - [rust-rinex](https://github.com/gwbres/rinex) - Rust package to parse and produce RINEX files
 - [rust-sinex](https://github.com/gwbres/rinex/tree/main/sinex) - Rust package to parse SINEX files
 
