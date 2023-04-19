@@ -117,7 +117,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 ### Books
 
 - [Global Navigation Satellite Systems - Education Curriculum](http://www.unoosa.org/pdf/icg/2013/Ed_GNSS_eBook.pdf) by United Nations Office for Outer Space Affairs. Good glossary of GNSS terms.
-- [GNSS Data Processing books](https://gage.upc.es/forum/gnss-books/) by UPC/gAGE - Theory and exercises to learn GNSS data processing (e.g., range modelling, navigation equations, Kalman filter)
+- [GNSS Data Processing books](https://gage.upc.edu/en/learning-materials/library/gnss-books) by UPC/gAGE - Theory and exercises to learn GNSS data processing (e.g., range modelling, navigation equations, Kalman filter).
 
 ### Lists
 
