@@ -49,6 +49,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - **GNSS-SDR** ([Download](https://gnss-sdr.org/), [Source code](https://github.com/gnss-sdr/gnss-sdr)) - An open source GNSS software defined receiver. Supports Linux, Mac, and Windows.
 - **GraphGNSSLib** ([Source code](https://github.com/weisongwen/GraphGNSSLib)) - An Open-source Package for GNSS Positioning and Real-time Kinematic Using Factor Graph Optimization.
 - **GPSTk** ([Download](http://www.gpstk.org), [Source code](https://github.com/SGL-UT/GPSTk)) - C++ open source library and a suite of applications for GPS processing problems.
+- **PyGPSClient** ([Download](https://pypi.org/project/pygpsclient/), [Source code](https://github.com/semuconsulting/PyGPSClient)) - Highly configurable Python/tkinter open source GUI application for GNSS testing, diagnostics and u-blox device configuration.
 - **RNXCMP** ([Download](https://terras.gsi.go.jp/ja/crx2rnx.html)) - Open source software for Hatanaka compression/restoration of RINEX observation files.
 - **RTKLIB** ([Download](http://www.rtklib.com/), [Source code](https://github.com/tomojitakasu/RTKLIB)) - An Open Source Program Package for GNSS Positioning. Has a companion Android app [RTKGPS+](https://play.google.com/store/apps/details?id=gpsplus.rtkgps). Supports Windows.
 
@@ -70,6 +71,11 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - [giulioscattolin/google-gnss-logger](https://github.com/giulioscattolin/google-gnss-logger) - A Java library that facilitates reading, writing and processing of sensor events and raw GNSS measurements encoded according to the Google's [GNSS Logger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) application format.
 - [ntripstreams](https://github.com/stenseng/ntripstreams) - Python interface to transfer GNSS and related data between GNSS instruments, Ntrip caster and users using the [Ntrip protocol](https://gssc.esa.int/wp-content/uploads/2018/07/NtripDocumentation.pdf).
 - [gps_pvt](https://github.com/fenrir-naru/gps_pvt) - An Open Source Program Package for GNSS Positioning which is runnable and controllable via [Ruby](https://www.ruby-lang.org/). RINEX ver.2/3, SP3, ANTEX, and u-blox UBX parsers are included.
+- [pynmeapgs](https://github.com/semuconsulting/pynmeagps) - Python NMEA protocol parser and generator for GNSS applications.
+- [pyubx2](https://github.com/semuconsulting/pyubx2) - Python UBX protocol parser and generator for GNSS applications using u-blox devices.
+- [pyrtcm](https://github.com/semuconsulting/pyrtcm) - Python RTCM3 protocol parser for GNSS NTRIP RTK applications.
+- [pyspartn](https://github.com/semuconsulting/pyspartn) - Python SPARTN protocol parser for GNSS SPARTN RTK applications.
+- [pygnssutils](https://github.com/semuconsulting/pygnssutils) - A suite of Python GNSS utilities including configurable I/O, NTRIP client, SPARTN MQTT client & Socket Server.
 - [rust-rinex](https://github.com/gwbres/rinex) - Rust package to parse and produce RINEX files
 - [rust-sinex](https://github.com/gwbres/rinex/tree/main/sinex) - Rust package to parse SINEX files
 
@@ -106,6 +112,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - [*Measuring GNSS Accuracy on Android devices*](https://medium.com/@sjbarbeau/measuring-gnss-accuracy-on-android-devices-6824492a1389) by Sean Barbeau - Discussion of *estimated* and *actual* accuracy on Android, including the feature in GPSTest to measure actual accuracy.
 - [*SAR and GNSS, monitoring Earth from space*](https://medium.com/worldsensing-techblog/sar-and-gnss-monitoring-earth-from-space-24d12c31b3b) by Toni M. del Hoyo in Worldsensing's Tech Blog - Overview on Global Navigation Satellite systems and on Synthetic Aperture Radar
 - [*Using GNSS Raw Measurements on Android Devices*](https://www.gsa.europa.eu/system/files/reports/gnss_raw_measurement_web_0.pdf) by GSA GNSS Raw Measurements Task Force - Technical discussion of how to determine a device's position based on raw pseudorange measurements provided via Android APIs.
+- [*GNSS Positioning - A Revisor*](https://www.semuconsulting.com/gnsswiki/) - Introductory overview of GNSS positioning technology and RTK DGPS, NTRIP and SPARTN techniques and implementations.
 
 ### Academic peer-reviewed publications
 - Wanninger and Anja Heßelbarth1. ["GNSS code and carrier phase observations of a Huawei P30 smartphone: quality assessment and centimeter-accurate positioning"](https://link.springer.com/content/pdf/10.1007/s10291-020-00978-z.pdf), GPS Solutions, 24:64, March 2020.
