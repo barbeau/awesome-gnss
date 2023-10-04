@@ -51,6 +51,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - **GPSTk** ([Download](http://www.gpstk.org), [Source code](https://github.com/SGL-UT/GPSTk)) - C++ open source library and a suite of applications for GPS processing problems.
 - **RNXCMP** ([Download](https://terras.gsi.go.jp/ja/crx2rnx.html)) - Open source software for Hatanaka compression/restoration of RINEX observation files.
 - **RTKLIB** ([Download](http://www.rtklib.com/), [Source code](https://github.com/tomojitakasu/RTKLIB)) - An Open Source Program Package for GNSS Positioning. Has a companion Android app [RTKGPS+](https://play.google.com/store/apps/details?id=gpsplus.rtkgps). Supports Windows.
+- **TinkerRTKWiFiNetwork** ([Source code](https://github.com/Tinkerbug-Robotics/TinkerRTKWiFiNetwork)) - Arduino sketches for the TinkerRTK base station and rover communicating over a WiFi network.
 
 ### Desktop tools (proprietary)
 
