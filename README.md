@@ -114,7 +114,8 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - Ng, H-F, Zhang, G, Luo, Y, Hsu, L-T. ["Urban positioning: 3D mapping-aided GNSS using dual-frequency pseudorange measurements from smartphones."](https://www.ion.org/publications/abstract.cfm?articleID=102931) NAVIGATION. 2021; 68: 727– 749. https://doi.org/10.1002/navi.448
 - Yong et al. - ["Instantaneous, Dual-Frequency, Multi-GNSS Precise RTK Positioning Using Google Pixel 4 and Samsung Galaxy S20 Smartphones for Zero and Short Baselines"](https://www.mdpi.com/1424-8220/21/24/8318/htm), Sensors 2021, 21(24), 8318; https://doi.org/10.3390/s21248318.
 - Li et al. - ["Ambiguity resolution for smartphone GNSS precise positioning: effect factors and performance"](https://link.springer.com/article/10.1007/s00190-022-01652-7), Journal of Geodesy 96, 63 (2022). https://doi.org/10.1007/s00190-022-01652-7.
-
+- Hu et al. - ["A Comprehensive Analysis of Smartphone GNSS Range Errors in Realistic Environments"](https://www.mdpi.com/1424-8220/23/3/1631), Sensors 2023, 23(3), 1631.
+ 
 ### Books
 
 - [Global Navigation Satellite Systems - Education Curriculum](http://www.unoosa.org/pdf/icg/2013/Ed_GNSS_eBook.pdf) by United Nations Office for Outer Space Affairs. Good glossary of GNSS terms.
