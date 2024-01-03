@@ -49,6 +49,8 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - **GNSS-SDR** ([Download](https://gnss-sdr.org/), [Source code](https://github.com/gnss-sdr/gnss-sdr)) - An open source GNSS software defined receiver. Supports Linux, Mac, and Windows.
 - **GraphGNSSLib** ([Source code](https://github.com/weisongwen/GraphGNSSLib)) - An Open-source Package for GNSS Positioning and Real-time Kinematic Using Factor Graph Optimization.
 - **GPSTk** ([Download](http://www.gpstk.org), [Source code](https://github.com/SGL-UT/GPSTk)) - C++ open source library and a suite of applications for GPS processing problems.
+- **RINEX-Cli** ([Download](https://github.com/georust/rinex/releases)) - An Open-source application to process RINEX data. It integrates several post processing algorithms,
+a Precise Position solver (SPP/PPP) and the formation of CGGTTS (special PVT) solutions for remote clock comparison. **RINEX-Cli** is the 100% open-source combination of **teqc**, **Anubis** and **gLAB**.
 - **RNXCMP** ([Download](https://terras.gsi.go.jp/ja/crx2rnx.html)) - Open source software for Hatanaka compression/restoration of RINEX observation files.
 - **RTKLIB** ([Download](http://www.rtklib.com/), [Source code](https://github.com/tomojitakasu/RTKLIB)) - An Open Source Program Package for GNSS Positioning. Has a companion Android app [RTKGPS+](https://play.google.com/store/apps/details?id=gpsplus.rtkgps). Supports Windows.
 - **TinkerRTKWiFiNetwork** ([Source code](https://github.com/Tinkerbug-Robotics/TinkerRTKWiFiNetwork)) - Arduino sketches for the TinkerRTK base station and rover communicating over a WiFi network.
@@ -67,12 +69,17 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 
 ### Libraries and interfaces
 
+- [CGGTTS](https://github.com/gwbres/cggtts) - support for CGGTTS (special PVT) solutions in Rust. Includes both a file parser and a sky tracker for CGGTTS track scheduling.
+CGGTTS is used in remote clock comparison, by mean of common satellite vehicle in sight.
 - [earth-gravitational-model](https://github.com/barbeau/earth-gravitational-model) - A lightweight port of the GeoTools [EarthGravitationalModel](http://docs.geotools.org/latest/javadocs/org/geotools/referencing/operation/transform/EarthGravitationalModel.html) as a Java library to convert WGS84 (GNSS) altitude to EGM84 (height above mean sea level). Can be used on Android without requiring the entire GeoTools suite.
+- [GeoRust - RINEX](https://github.com/georust/rinex) - RINEX files parsing and generation as a Rust library. Python bindings are under development.
+- [GeoRust - SINEX](https://github.com/georust/rinex/tree/main/sinex) - SINEX files parsing.
+- [GeoRust - SP3](https://github.com/georust/rinex/tree/main/sp3) - SP3 Precise Orbits by IGS - files parsing and processing in Rust.
+- [GNSS - Rust](https://github.com/rtk-rs/gnss-rs) - GNSS definitions in Rust. Includes detailed SBAS support.
 - [giulioscattolin/google-gnss-logger](https://github.com/giulioscattolin/google-gnss-logger) - A Java library that facilitates reading, writing and processing of sensor events and raw GNSS measurements encoded according to the Google's [GNSS Logger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) application format.
 - [ntripstreams](https://github.com/stenseng/ntripstreams) - Python interface to transfer GNSS and related data between GNSS instruments, Ntrip caster and users using the [Ntrip protocol](https://gssc.esa.int/wp-content/uploads/2018/07/NtripDocumentation.pdf).
 - [gps_pvt](https://github.com/fenrir-naru/gps_pvt) - An Open Source Program Package for GNSS Positioning which is runnable and controllable via [Ruby](https://www.ruby-lang.org/). RINEX ver.2/3, SP3, ANTEX, and u-blox UBX parsers are included.
-- [rust-rinex](https://github.com/gwbres/rinex) - Rust package to parse and produce RINEX files
-- [rust-sinex](https://github.com/gwbres/rinex/tree/main/sinex) - Rust package to parse SINEX files
+- [RTK - Rust](https://github.com/rtk-rs/gnss-rtk) - Precise Positioning in Rust. 
 
 ### Data
 - [Android smartphones high accuracy GNSS datasets](https://www.kaggle.com/google/android-smartphones-high-accuracy-datasets) by Google - Datasets collected from multiple Android phones, accompanied with high accuracy ground truth. This dataset has 39 traces collected from Pixel 4, Pixel 4 XL, and Xiaomi Mi8. They contain CN0, carrier phase, Doppler rate, satellite transmit time, signal arrival time, and other raw GNSS measurements of L1, L5 channels from GPS, Galileo, GLONASS, Beidou, and QZSS. Precise location ground truth files collected using NovAtel SPAN system are provided. Part of the [Google Smartphone Decimeter Challenge at ION GNSS+ 2021](https://developer.android.com/guide/topics/sensors/google_open_dataset_challenge.pdf).
