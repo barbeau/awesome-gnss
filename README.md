@@ -18,7 +18,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - [Wikis](#wikis)
 - [Videos](#videos)
 - [Articles](#articles)
-- [Academic peer-reviewed publications](#academic-peer-reviewed-publications)
+- [Peer-reviewed publications](#peer-reviewed-publications)
 - [Books](#books)
 - [Lists](#lists)
 
@@ -108,13 +108,47 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - [*SAR and GNSS, monitoring Earth from space*](https://medium.com/worldsensing-techblog/sar-and-gnss-monitoring-earth-from-space-24d12c31b3b) by Toni M. del Hoyo in Worldsensing's Tech Blog - Overview on Global Navigation Satellite systems and on Synthetic Aperture Radar
 - [*Using GNSS Raw Measurements on Android Devices*](https://www.gsa.europa.eu/system/files/reports/gnss_raw_measurement_web_0.pdf) by GSA GNSS Raw Measurements Task Force - Technical discussion of how to determine a device's position based on raw pseudorange measurements provided via Android APIs.
 
-### Academic peer-reviewed publications
-- Wanninger and Anja Heßelbarth1. ["GNSS code and carrier phase observations of a Huawei P30 smartphone: quality assessment and centimeter-accurate positioning"](https://link.springer.com/content/pdf/10.1007/s10291-020-00978-z.pdf), GPS Solutions, 24:64, March 2020.
-- Jacek Paziewski, Marco Fortunato, Augusto Mazzoni, Robert Odolinski. ["An analysis of multi-GNSS observations tracked by recent Android smartphones and smartphone-only relative positioning results"](https://www.sciencedirect.com/science/article/pii/S0263224121001858), Measurement, Volume 175, 2021, https://doi.org/10.1016/j.measurement.2021.109162.
-- Ng, H-F, Zhang, G, Luo, Y, Hsu, L-T. ["Urban positioning: 3D mapping-aided GNSS using dual-frequency pseudorange measurements from smartphones."](https://www.ion.org/publications/abstract.cfm?articleID=102931) NAVIGATION. 2021; 68: 727– 749. https://doi.org/10.1002/navi.448
-- Yong et al. - ["Instantaneous, Dual-Frequency, Multi-GNSS Precise RTK Positioning Using Google Pixel 4 and Samsung Galaxy S20 Smartphones for Zero and Short Baselines"](https://www.mdpi.com/1424-8220/21/24/8318/htm), Sensors 2021, 21(24), 8318; https://doi.org/10.3390/s21248318.
-- Li et al. - ["Ambiguity resolution for smartphone GNSS precise positioning: effect factors and performance"](https://link.springer.com/article/10.1007/s00190-022-01652-7), Journal of Geodesy 96, 63 (2022). https://doi.org/10.1007/s00190-022-01652-7.
-- Hu et al. - ["A Comprehensive Analysis of Smartphone GNSS Range Errors in Realistic Environments"](https://www.mdpi.com/1424-8220/23/3/1631), Sensors 2023, 23(3), 1631.
+### Peer-reviewed publications
+
+#### Positioning with raw measurements
+
+* Crosta, P., Galluzzo, G., Rodriguez, R.L., Otero, X., Zoccarato, P., De Pasquale, G, & Melara, A. (2019). Galileo Hits the Spot, InsideGNSS, September 29, 2019. https://insidegnss.com/galileo-hits-the-spot/
+* Everett, T. (2022). "3rd Place Winner: 2022 Smartphone Decimeter Challenge: An RTKLIB Open-Source Based Solution," Proceedings of the 35th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2022), Denver, Colorado, September 2022, pp. 2265-2275. https://doi.org/10.33012/2022.18376
+* Fortunato, M., Ravanelli, M., & Mazzoni, A. (2019). Real-time geophysical applications with Android GNSS raw measurements. Remote Sensing, 11(18), 2113. https://www.mdpi.com/2072-4292/11/18/2113
+* Gogoi, N., Minetto, A., & Dovis, F. (2019). On the cooperative ranging between android smartphones sharing raw GNSS measurements. In 2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall) (pp. 1-5). IEEE.
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8891320
+* Gogoi, N., Minetto, A., Linty, N., & Dovis, F. (2018). A controlled-environment quality assessment of android GNSS raw measurements. Electronics, 8(1), 5. https://www.mdpi.com/2079-9292/8/1/5
+* Håkansson, M. (2019). Characterization of GNSS observations from a Nexus 9 Android tablet. GPS solutions, 23(1), 21. https://link.springer.com/article/10.1007/s10291-018-0818-7
+* Hu, J.; Yi, D.; Bisnath, S. A Comprehensive Analysis of Smartphone GNSS Range Errors in Realistic Environments. Sensors 2023, 23, 1631. https://doi.org/10.3390/s23031631
+* Lee, D. K., Nedelkov, F., & Akos, D. M. (2022). Assessment of android network positioning as an alternative source of navigation for drone operations. Drones, 6(2), 35.https://www.mdpi.com/2504-446X/6/2/35
+* Li, B., Miao, W., Chen, G. et al. (2022). Ambiguity resolution for smartphone GNSS precise positioning: effect factors and performance. J Geod 96, 63. https://doi.org/10.1007/s00190-022-01652-7
+* Li, G., & Geng, J. (2019). Characteristics of raw multi-GNSS measurement error from Google Android smart devices. GPS Solutions, 23, 1-16. https://link.springer.com/article/10.1007/s10291-019-0885-4 
+* Li, G., & Geng, J. (2022). Android multi-GNSS ambiguity resolution in the case of receiver channel-dependent phase biases. Journal of Geodesy, 96(10), 72. https://link.springer.com/article/10.1007/s00190-022-01656-3
+* Li, X., Wang, H., Li, X. et al. (2022). PPP rapid ambiguity resolution using Android GNSS raw measurements with a low-cost helical antenna. J Geod 96, 65. https://doi.org/10.1007/s00190-022-01661-6
+* Liu, W., Shi, X., Zhu, F., Tao, X., & Wang, F. (2019). Quality analysis of multi-GNSS raw observations and a velocity-aided positioning approach based on smartphones. Advances in Space Research, 63(8), 2358-2377. https://www.sciencedirect.com/science/article/pii/S0273117719300122
+* Marinaro, G. (2019). Improved Positioning techniques for positioning based on raw GNSS measurements from smartphones. Politecnico di Torino, Corso di laurea magistrale in Ict For Smart Societies (Ict Per La Società Del Futuro). https://webthesis.biblio.polito.it/11702/
+* Ng, H., Zhang, G., Luo, Y., Hsu, L. (2021). Urban positioning: 3D mapping-aided GNSS using dual-frequency pseudorange measurements from smartphones. NAVIGATION. 2021; 68: 727– 749. https://doi.org/10.1002/navi.448 
+* Paziewski, J., Fortunato, M., Mazzoni, A. & Odolinski, R. (2021). An analysis of multi-GNSS observations tracked by recent Android smartphones and smartphone-only relative positioning results, Measurement, Volume 175, 2021, https://doi.org/10.1016/j.measurement.2021.109162.
+* Riley, S., Landau, H., Gomez, V., Mishukova, N., Lentz, W. & Clare, A. (2018). Positioning with Android: GNSS observables. GPS World. January 17, 2018. https://www.gpsworld.com/positioning-with-android-gnss-observables/
+* Suzuki, T. (2023). Precise Position Estimation Using Smartphone Raw GNSS Data Based on Two-Step Optimization. Sensors 23.3 (2023): 1205. https://www.mdpi.com/1424-8220/23/3/1205
+* Siddakatte, R., Broumandan, A., & Lachapelle, G. (2017). Performance evaluation of smartphone GNSS measurements with different antenna configurations. In Proceedings of the international navigation conference. https://schulich.ucalgary.ca/labs/position-location-and-navigation/files/position-location-and-navigation/siddakatte2017conference_c.pdf
+* Tao, X., Liu, W., Wang, Y., Li, L., Zhu, F., & Zhang, X. (2023). Smartphone RTK positioning with multi-frequency and multi-constellation raw observations: GPS L1/L5, Galileo E1/E5a, BDS B1I/B1C/B2a. Journal of Geodesy, 97(5), 43. https://link.springer.com/article/10.1007/s00190-023-01731-3 
+* Wanninger, L. & Heßelbarth, A. (2020). GNSS code and carrier phase observations of a Huawei P30 smartphone: quality assessment and centimeter-accurate positioning, GPS Solutions, 24:64, March 2020. https://link.springer.com/content/pdf/10.1007/s10291-020-00978-z.pdf
+* Yong, C.Z., Odolinski, R., Zaminpardaz, S., Moore, M., Rubinov, E., Er, J., Denham, M. (2021). Instantaneous, Dual-Frequency, Multi-GNSS Precise RTK Positioning Using Google Pixel 4 and Samsung Galaxy S20 Smartphones for Zero and Short Baselines. Sensors 2021, 21, 8318. https://doi.org/10.3390/s21248318.
+* Zangenehnejad, F., & Gao, Y. (2023). Stochastic Modeling of Smartphones GNSS Observations Using LS-VCE and Application to Samsung S20. Sensors, 23(7), 3478. https://www.mdpi.com/1424-8220/23/7/3478 
+* Zangenehnejad, F., Jiang, Y., & Gao, Y. (2023). GNSS Observation Generation from Smartphone Android Location API: Performance of Existing Apps, Issues and Improvement. Sensors, 23(2), 777. https://www.mdpi.com/1424-8220/23/2/777 
+
+#### Jamming and spoofing
+
+* Ceccato, S., Formaggio, F., Caparra, G., Laurenti, N. & Tomasin, S., "Exploiting side-information for resilient GNSS positioning in mobile phones," 2018 IEEE/ION Position, Location and Navigation Symposium (PLANS), Monterey, CA, USA, 2018, pp. 1515-1524, doi: 10.1109/PLANS.2018.8373546.
+* Miralles, D., Levigne, N., Akos, D. M., Blanch, J., & Lo, S. (2018). Android raw GNSS measurements as the new anti-spoofing and anti-jamming solution. In Proceedings of the 31st International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2018) (pp. 334-344). https://www.ion.org/publications/abstract.cfm?articleID=15883
+* O'Driscoll, C., Winkel, J., & Hernandez, I. F. (2023). Assisted NMA proof of concept on Android smartphones. In 2023 IEEE/ION Position, Location and Navigation Symposium (PLANS) (pp. 559-569). IEEE.
+https://ieeexplore.ieee.org/abstract/document/10139953 
+* Rustamov, A., Minetto, A., & Dovis, F. (2023). Improving GNSS spoofing awareness in smartphones via statistical processing of raw measurements. IEEE Open Journal of the Communications Society, 4, 873-891.
+https://ieeexplore.ieee.org/abstract/document/10081330 
+* Spens, N., Lee, D. K., Nedelkov, F., & Akos, D. (2022). Detecting GNSS jamming and spoofing on Android devices. NAVIGATION: Journal of the Institute of Navigation, 69(3). https://navi.ion.org/content/navi/69/3/navi.537.full.pdf 
+* Strizic, L., Akos, D. M., & Lo, S. (2018, February). Crowdsourcing GNSS jammer detection and localization. In Proceedings of the 2018 International Technical Meeting of The Institute of Navigation (pp. 626-641). https://www.ion.org/publications/pdf.cfm?articleID=15546
+* Wang, Z., Li, H., Wen, J., & Lu, M. (2021). Prototype Development of an Online Spoofer Localization System Using Raw GNSS Measurements of Android Smartphones. In Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021) (pp. 1989-1999). https://www.ion.org/publications/pdf.cfm?articleID=17995 
  
 ### Books
 
