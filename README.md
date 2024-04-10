@@ -84,6 +84,7 @@ CGGTTS is used in remote clock comparison, by mean of common satellite vehicle i
 ### Data
 - [Android smartphones high accuracy GNSS datasets](https://www.kaggle.com/google/android-smartphones-high-accuracy-datasets) by Google - Datasets collected from multiple Android phones, accompanied with high accuracy ground truth. This dataset has 39 traces collected from Pixel 4, Pixel 4 XL, and Xiaomi Mi8. They contain CN0, carrier phase, Doppler rate, satellite transmit time, signal arrival time, and other raw GNSS measurements of L1, L5 channels from GPS, Galileo, GLONASS, Beidou, and QZSS. Precise location ground truth files collected using NovAtel SPAN system are provided. Part of the [Google Smartphone Decimeter Challenge at ION GNSS+ 2021](https://developer.android.com/guide/topics/sensors/google_open_dataset_challenge.pdf).
 - [GPSTest Device Database](https://bit.ly/gpstest-device-database) - A list of device capabilities (e.g., supported GNSS constellations and carrier frequencies) crowd-sourced from users of the [GPSTest Android app](https://github.com/barbeau/gpstest).
+- [UrbanNav](https://github.com/IPNL-POLYU/UrbanNavDataset) - An Open-Sourcing Localization Dataset Collected in Asian Urban Canyons, including Tokyo and Hong Kong.
 
 ### Social media
 
