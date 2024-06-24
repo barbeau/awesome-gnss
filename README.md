@@ -49,6 +49,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - **GNSS-SDR** ([Download](https://gnss-sdr.org/), [Source code](https://github.com/gnss-sdr/gnss-sdr)) - An open source GNSS software defined receiver. Supports Linux, Mac, and Windows.
 - **GraphGNSSLib** ([Source code](https://github.com/weisongwen/GraphGNSSLib)) - An Open-source Package for GNSS Positioning and Real-time Kinematic Using Factor Graph Optimization.
 - **GPSTk** ([Download](http://www.gpstk.org), [Source code](https://github.com/SGL-UT/GPSTk)) - C++ open source library and a suite of applications for GPS processing problems.
+- **prx** ([Source code](https://github.com/jtec/prx)) - Reads a RINEX 3.05 observation file and outputs a CSV file.
 - **RINEX-Cli** ([Download](https://github.com/georust/rinex/releases)) - An Open-source application to process RINEX data. It integrates several post processing algorithms,
 a Precise Position solver (SPP/PPP) and the formation of CGGTTS (special PVT) solutions for remote clock comparison. **RINEX-Cli** is the 100% open-source combination of **teqc**, **Anubis** and **gLAB**.
 - **RNXCMP** ([Download](https://terras.gsi.go.jp/ja/crx2rnx.html)) - Open source software for Hatanaka compression/restoration of RINEX observation files.
