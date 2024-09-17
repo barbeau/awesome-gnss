@@ -29,6 +29,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - **GNSS Compare** ([Google Play](https://play.google.com/store/apps/details?id=com.galfins.gnss_compare), [Documentation](https://gnss-compare.readthedocs.io), [Source code](https://github.com/TheGalfins/GNSS_Compare)) - Supporting calculating positions from raw measurements for GPS and Galileo. Beta support for dual-frequency.
 - **RTKGPS+** ([Google Play](https://play.google.com/store/apps/details?id=gpsplus.rtkgps)) - Android frontend of [RTKLIB]((http://www.rtklib.com/)).
 - **Sat Stat** ([F-Droid](https://f-droid.org/packages/com.vonglasow.michael.satstat/), [Source code](https://gitlab.com/mvglasow/satstat)) - Android Location, Sensor and Radio Network Status.
+- **BasicAirData GPS Logger** ([Google Play](https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger), [Source code](https://github.com/BasicAirData/GPSLogger)) - A GPS logger for Android mobile devices.
 
 ### iOS apps (open-source)
 
