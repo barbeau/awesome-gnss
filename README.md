@@ -52,6 +52,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - **Google's GPS Measurement Tools suite** ([Download](https://github.com/google/gps-measurement-tools/releases), [Source code](https://insidegnss.com/gnss-analysis-tools-from-google/)) - Desktop companion app for GNSSLogger to visualize and analyze raw measurements. Supports Windows, Mac, and Linux.
 - [GPSPACE](https://github.com/CGS-GIS/GPSPACE) - Fortran script for Precise Point Positioning.
 - [gnss_lib_py](https://gnss-lib-py.readthedocs.io/en/latest/index.html#) - A modular Python tool for parsing, analyzing, and visualizing Global Navigation Satellite Systems (GNSS) data and state estimates by the Stanford NAV Lab.
+- **gnssrefl** ([Source code](https://github.com/kristinemlarson/gnssrefl)) - Open source GNSS software in python that supports estimation of water levels, soil moisture, and snow depth from reflected GNSS signals. Supports linux, Mac, and Windows (via docker).
 - **GNSS-SDR** ([Download](https://gnss-sdr.org/), [Source code](https://github.com/gnss-sdr/gnss-sdr)) - An open source GNSS software defined receiver. Supports Linux, Mac, and Windows.
 - **GraphGNSSLib** ([Source code](https://github.com/weisongwen/GraphGNSSLib)) - An Open-source Package for GNSS Positioning and Real-time Kinematic Using Factor Graph Optimization.
 - **GPSTk** ([Download](http://www.gpstk.org), [Source code](https://github.com/SGL-UT/GPSTk)) - C++ open source library and a suite of applications for GPS processing problems.
