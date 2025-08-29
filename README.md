@@ -4,6 +4,8 @@
 
 Have something to add or change? Open a [pull request](https://github.com/barbeau/awesome-gnss/pulls) or [issue](https://github.com/barbeau/awesome-gnss/issues).
 
+*This is a community resource for informational use only - listing of a project/product does not imply endorsement.*
+
 ## Contents
 
 - [Android apps (open-source)](#android-apps-open-source)
