@@ -51,6 +51,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - [ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility) - Generates virtual fisheye zenith images from Google Earth at arbitrary locations and automatically determines GNSS visibility
 - **Ginan** ([Source code](https://github.com/GeoscienceAustralia/ginan)) - A processing package being developed by [Geoscience Australia](http://www.ga.gov.au/) to provide real-time corrections to positioning data from the Global Navigation Satellite System (GNSS) constellations.
 - [goGPS project](https://gogps-project.github.io/) - An open-source software package designed to improve the positioning accuracy of low-cost GPS devices by relative positioning. There are several versions, including [goGPS_Java](https://github.com/goGPS-Project/goGPS_Java) and [goGPS_MATLAB](https://github.com/goGPS-Project/goGPS_MATLAB).
+- **gLAB Tool Suite** ([Download](https://gage.upc.edu/en/learning-materials/software-tools/glab), [Source code](https://github.com/valgur/gLAB)) - Performs precise modeling of GNSS observables (pseudorange and carrier phase) at the centimetre level, allowing both standalone GPS positioning and PPP. Supports RINEX-3.00, SP3, ANTEX and SINEX, as well as GPS, Galileo, and GLONASS. Developed under an European Space Agency (ESA) contract by the Universitat Politecnica de Catalunya (UPC).
 - **Google's GPS Measurement Tools suite** ([Download](https://github.com/google/gps-measurement-tools/releases), [Source code](https://insidegnss.com/gnss-analysis-tools-from-google/)) - Desktop companion app for GNSSLogger to visualize and analyze raw measurements. Supports Windows, Mac, and Linux.
 - [GPSPACE](https://github.com/CGS-GIS/GPSPACE) - Fortran script for Precise Point Positioning.
 - [gnss_lib_py](https://gnss-lib-py.readthedocs.io/en/latest/index.html#) - A modular Python tool for parsing, analyzing, and visualizing Global Navigation Satellite Systems (GNSS) data and state estimates by the Stanford NAV Lab.
@@ -72,7 +73,6 @@ a Precise Position solver (SPP/PPP) and the formation of CGGTTS (special PVT) so
 ### Desktop tools (proprietary)
 
 - **GFZRNX - RINEX GNSS Data Conversion and Manipulation Toolbox** [Download](https://dataservices.gfz-potsdam.de/panmetaworks/showshort.php?id=escidoc:1577894) - Supports various translation, conversion, and quality check operations on RINEX data.
-- **gLAB Lab** ([Download](https://gage.upc.es/gLAB/)) - Performs precise modeling of GNSS observables (pseudorange and carrier phase) at the centimetre level, allowing both standalone GPS positioning and PPP. Supports RINEX-3.00, SP3, ANTEX and SINEX, as well as GPS, Galileo, and GLONASS. Developed under an European Space Agency (ESA) contract by the Universitat Politecnica de Catalunya (UPC). Free to download.
 - **teqc** ([Download](https://www.unavco.org/software/data-processing/teqc/teqc.html)) - Translation, editing, and quality check of GNSS data in native and in RINEX/BINEX formats. Free to download. End-of-life as of February 25, 2019.
 
 ### Web tools (proprietary)
