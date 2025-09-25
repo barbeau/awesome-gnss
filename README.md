@@ -84,6 +84,7 @@ a Precise Position solver (SPP/PPP) and the formation of CGGTTS (special PVT) so
 
 - [CGGTTS](https://github.com/gwbres/cggtts) - support for CGGTTS (special PVT) solutions in Rust. Includes both a file parser and a sky tracker for CGGTTS track scheduling.
 CGGTTS is used in remote clock comparison, by mean of common satellite vehicle in sight.
+- [ESP32-GPS](https://github.com/mrichar1/esp32-gps) - ESP32 GPS Controller, with support for USB Serial, Bluetooth, RTK Corrections, NTRIP Caster/Server/Client and ESP-Now forwarding.
 - [earth-gravitational-model](https://github.com/barbeau/earth-gravitational-model) - A lightweight port of the GeoTools [EarthGravitationalModel](http://docs.geotools.org/latest/javadocs/org/geotools/referencing/operation/transform/EarthGravitationalModel.html) as a Java library to convert WGS84 (GNSS) altitude to EGM84 (height above mean sea level). Can be used on Android without requiring the entire GeoTools suite.
 - [GeoRust - RINEX](https://github.com/georust/rinex) - RINEX files parsing and generation as a Rust library. Python bindings are under development.
 - [GeoRust - SINEX](https://github.com/georust/rinex/tree/main/sinex) - SINEX files parsing.
