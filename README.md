@@ -111,6 +111,7 @@ CGGTTS is used in remote clock comparison, by mean of common satellite vehicle i
 ### Blogs
 
 - [BlackDotGNSS](https://www.blackdotgnss.com/blog/) - Technical discussions related to GNSS data processing.
+- [Kalmix GNSS Handbook](https://www.kalmixtech.com/blogs/blog/tagged/gnss-handbook) - Practical engineering notes on GNSS fundamentals, pseudorange, signal bands, RTCM/NTRIP correction workflows, NMEA 0183, and coordinate systems for RTK integration.
 - [rtklibexplorer](https://rtklibexplorer.wordpress.com/) - Using RTKLIB for precise positioning with low-cost GNSS receivers.
 
 ### Wikis
