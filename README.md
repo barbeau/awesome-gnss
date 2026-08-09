@@ -70,7 +70,7 @@ a Precise Position solver (SPP/PPP) and the formation of CGGTTS (special PVT) so
 - **TinkerRTKWiFiNetwork** ([Source code](https://github.com/Tinkerbug-Robotics/TinkerRTKWiFiNetwork)) - Arduino sketches for the TinkerRTK base station and rover communicating over a WiFi network.
 
 ### Desktop tools (proprietary)
-
+- **AnyLocate** ([Download](https://anylocate.app)) - Software-defined GNSS signal simulator that drives a commodity SDR (HackRF, bladeRF, LimeSDR, ADALM-Pluto, USRP). Generates GPS, Galileo, GLONASS and BeiDou signals in real time, supports moving trajectories, and can record and replay live sky signals. Free tier available, paid tiers for longer daily runtime and additional constellations.
 - **GFZRNX - RINEX GNSS Data Conversion and Manipulation Toolbox** [Download](https://dataservices.gfz-potsdam.de/panmetaworks/showshort.php?id=escidoc:1577894) - Supports various translation, conversion, and quality check operations on RINEX data.
 - **gLAB Lab** ([Download](https://gage.upc.es/gLAB/)) - Performs precise modeling of GNSS observables (pseudorange and carrier phase) at the centimetre level, allowing both standalone GPS positioning and PPP. Supports RINEX-3.00, SP3, ANTEX and SINEX, as well as GPS, Galileo, and GLONASS. Developed under an European Space Agency (ESA) contract by the Universitat Politecnica de Catalunya (UPC). Free to download.
 - **teqc** ([Download](https://www.unavco.org/software/data-processing/teqc/teqc.html)) - Translation, editing, and quality check of GNSS data in native and in RINEX/BINEX formats. Free to download. End-of-life as of February 25, 2019.
