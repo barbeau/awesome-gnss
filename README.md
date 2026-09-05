@@ -77,7 +77,7 @@ a Precise Position solver (SPP/PPP) and the formation of CGGTTS (special PVT) so
 
 ### Web tools (proprietary)
 
-- [GNSS-Radar](http://www.taroz.net/GNSS-Radar.html) - GNSS coverage simulator over time for any given location.
+- [GNSS-Radar](https://github.com/taroz/GNSS-Radar) - GNSS coverage simulator over time for any given location. *(Note: Original website http://www.taroz.net/GNSS-Radar.html is no longer available)*
 - [HowToCreate GPS/GNSS log file parser](http://www.howtocreate.co.uk/tutorials/jsexamples/gnsslogparser.html) - Upload gnss_log output from GPSTest or Google's GnssLogger, or a CSV file containing the same columns. The tool processes the data, and applies a static Kalman filter to refine the position of the GNSS device, much better than basic averaging, since it can use the estimated accuracy for weighting.
 
 ### Libraries and interfaces
