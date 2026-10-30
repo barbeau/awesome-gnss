@@ -77,6 +77,7 @@ a Precise Position solver (SPP/PPP) and the formation of CGGTTS (special PVT) so
 
 ### Web tools (proprietary)
 
+- [FixFinder](https://findrtk.com) - Directory of US RTK/NTRIP correction networks by state, free and paid, with a coverage check by address.
 - [GNSS-Radar](http://www.taroz.net/GNSS-Radar.html) - GNSS coverage simulator over time for any given location.
 - [HowToCreate GPS/GNSS log file parser](http://www.howtocreate.co.uk/tutorials/jsexamples/gnsslogparser.html) - Upload gnss_log output from GPSTest or Google's GnssLogger, or a CSV file containing the same columns. The tool processes the data, and applies a static Kalman filter to refine the position of the GNSS device, much better than basic averaging, since it can use the estimated accuracy for weighting.
 
